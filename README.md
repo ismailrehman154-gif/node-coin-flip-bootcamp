@@ -2,6 +2,8 @@
 
 Pick heads or tails, the server flips a coin, and you find out if you called it. Served by a handmade Node server with just the http and fs modules, no Express.
 
+**Live site:** https://coin-flip-ismail.onrender.com
+
 ![Coin Flip Game screenshot](screenshot.png)
 
 ## How the code works
